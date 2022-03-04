@@ -16,7 +16,7 @@
 #
 
 ## INDEX PAGE :
-<img src="https://drive.google.com/open?id=11ennNYHV4R8T_gEfksdk5auotfMZ3Ky-&authuser=rohitkumar.chaudhari94%40gmail.com&usp=drive_fs" width="100%">
+<img src="1.png" width="100%">
 
 #
 
